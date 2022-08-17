@@ -22,5 +22,5 @@ Press "p" for pause
 Write "unp" for unpause
 
 for the proper functioning of the program add a minimum of 3 songs in the playlist option.
-
+The program already work only whit .mp3 files.
 Enjoy :)
